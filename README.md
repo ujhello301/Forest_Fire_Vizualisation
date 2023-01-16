@@ -14,5 +14,4 @@ framework. The web‑app was deployed on AWS using S3 buckets for
 storage, elastic beanstalk for sending requests to the MongoDB cloud
 and static hosting instance.
 
-Later added a module for forest fire prediction based on random
-Forest algorithm.
+A Module for wild fire prediction has also been Added.
